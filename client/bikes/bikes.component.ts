@@ -10,6 +10,9 @@ import { IBike } from './bike.d';
   </section>`,
 })
 export class BikesComponent {
-    
+  constructor() {
+
+  } 
+     
   bikes: IBike[];
 }
