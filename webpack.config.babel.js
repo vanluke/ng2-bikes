@@ -32,7 +32,7 @@ export default {
   },
 
   resolve: {
-    extensions: ['.ts', '.tsx', '.js'],
+    extensions: ['.ts', '.tsx', '.js', '.json'],
     modules: [
       path.resolve('client'),
       'node_modules',
