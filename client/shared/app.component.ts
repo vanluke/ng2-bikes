@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
     </header>
     <nav class="c-app__nav">
        <a [routerLink]="['/']" class="c-app__link">Home</a>
+       <a [routerLink]="['/bikes']" class="c-app__link">Bikes</a>
      </nav>
     <router-outlet></router-outlet>
   </main>`,

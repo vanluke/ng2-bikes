@@ -1,3 +1,4 @@
+/// <reference path="./shared/require.d.ts" />
 import 'reflect-metadata';
 import 'babel-polyfill';
 import 'core-js/es6';

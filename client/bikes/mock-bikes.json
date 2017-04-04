@@ -1,0 +1,202 @@
+[
+  {
+    "bikeId": "d52df744-2256-47f2-bdcd-562d59c59f5f",
+    "isActive": false,
+    "balance": "$3,300.72",
+    "picture": "http://placehold.it/32x32",
+    "name": "Lorem culpa",
+    "company": "ISONUS",
+    "description": "Duis commodo aute pariatur cillum. Nostrud ut eiusmod occaecat dolore cillum aute ad. Nostrud amet nulla adipisicing minim incididunt exercitation culpa velit. Cillum culpa tempor sunt id. Ullamco voluptate pariatur ea officia ullamco dolore laborum ut anim. Do est ad eu fugiat velit occaecat eiusmod ex in ipsum pariatur eiusmod nulla. Nisi in id ut sit cillum et ea ipsum Lorem.\r\n",
+    "registered": "2014-01-07T02:56:21 -01:00"
+  },
+  {
+    "bikeId": "2d0e7a41-f7e0-4769-b5bf-670809748725",
+    "isActive": false,
+    "balance": "$2,630.57",
+    "picture": "http://placehold.it/32x32",
+    "name": "in culpa",
+    "company": "BUZZMAKER",
+    "description": "Anim veniam et quis voluptate occaecat sint aute cillum esse deserunt. Elit veniam exercitation pariatur anim sint cupidatat Lorem aute aliquip proident velit laborum. Non laborum culpa ut reprehenderit veniam cillum exercitation. Veniam sint dolore ea nisi laboris aliquip Lorem. Magna ex anim pariatur pariatur commodo aute eu elit.\r\n",
+    "registered": "2016-08-18T10:37:25 -02:00"
+  },
+  {
+    "bikeId": "c3be07c7-f054-4a49-8b13-894e41f02ec6",
+    "isActive": true,
+    "balance": "$2,260.30",
+    "picture": "http://placehold.it/32x32",
+    "name": "culpa laboris",
+    "company": "CALCU",
+    "description": "Quis et nulla enim qui commodo culpa ut minim sint. Nisi velit laborum deserunt amet sunt ullamco ipsum ut ea nostrud ex mollit. Sint amet laboris est est consequat velit deserunt ullamco eiusmod. Lorem excepteur ex sunt ea proident duis est quis aliquip aute cillum proident et sit. Officia ad pariatur tempor deserunt.\r\n",
+    "registered": "2016-11-22T07:55:10 -01:00"
+  },
+  {
+    "bikeId": "fa8fcfff-a45e-473d-986e-cc62ab7421ec",
+    "isActive": false,
+    "balance": "$2,258.90",
+    "picture": "http://placehold.it/32x32",
+    "name": "duis consectetur",
+    "company": "QUONK",
+    "description": "Pariatur officia laboris id proident irure adipisicing ipsum eu. Id ullamco deserunt nisi aute dolore reprehenderit. Id deserunt proident cupidatat consectetur nostrud eu sint. Officia sint laborum mollit proident ipsum laborum ut.\r\n",
+    "registered": "2016-01-07T08:52:15 -01:00"
+  },
+  {
+    "bikeId": "a7ff0a36-d3a5-40e7-b0c5-035b055db800",
+    "isActive": false,
+    "balance": "$1,536.47",
+    "picture": "http://placehold.it/32x32",
+    "name": "consectetur deserunt",
+    "company": "COMVEX",
+    "description": "Sint ut magna quis cillum irure ut sint aliquip aliquip dolore. Amet nisi amet non labore consectetur do quis ullamco reprehenderit id laboris aliquip sunt. Aute cillum veniam magna sunt qui Lorem magna ex. Voluptate nostrud ex culpa aute.\r\n",
+    "registered": "2015-08-10T09:42:47 -02:00"
+  },
+  {
+    "bikeId": "f66e18b4-bd3e-4630-b6a0-3b6889fc0797",
+    "isActive": false,
+    "balance": "$3,991.91",
+    "picture": "http://placehold.it/32x32",
+    "name": "deserunt dolor",
+    "company": "BICOL",
+    "description": "Dolor tempor pariatur ipsum eu ut qui. Excepteur elit dolor nostrud cupidatat commodo ut anim mollit. Quis duis occaecat pariatur consequat ut ut minim officia nostrud officia elit deserunt. Adipisicing excepteur duis mollit veniam velit enim consequat reprehenderit incididunt sunt cillum. Consectetur aute dolore do commodo cillum esse nostrud. In fugiat laborum labore veniam qui excepteur nostrud irure dolor ullamco eu minim est laborum.\r\n",
+    "registered": "2016-09-21T05:53:07 -02:00"
+  },
+  {
+    "bikeId": "b9aa4f51-1b8e-4702-a845-967389cff2a2",
+    "isActive": true,
+    "balance": "$1,125.13",
+    "picture": "http://placehold.it/32x32",
+    "name": "est reprehenderit",
+    "company": "LUNCHPOD",
+    "description": "Adipisicing id consectetur est cupidatat irure elit eu quis in duis eiusmod exercitation. Proident amet enim aliquip irure. Sunt dolore do proident id.\r\n",
+    "registered": "2015-10-08T07:27:04 -02:00"
+  },
+  {
+    "bikeId": "317e6e32-b8c2-450a-a45b-37e9f2878e1b",
+    "isActive": true,
+    "balance": "$1,897.56",
+    "picture": "http://placehold.it/32x32",
+    "name": "id sit",
+    "company": "RAMJOB",
+    "description": "Proident voluptate cillum fugiat anim qui cillum incididunt. Aliqua eu enim Lorem irure officia voluptate deserunt nisi do ex reprehenderit. Ut amet sunt enim sint. Consequat minim et laboris enim esse labore ex ipsum qui culpa incididunt. Ad sint qui labore consequat fugiat consectetur sit. Excepteur veniam ex magna exercitation amet in amet.\r\n",
+    "registered": "2015-01-03T06:02:52 -01:00"
+  },
+  {
+    "bikeId": "8a3c272b-62b3-4a6f-9ac0-e8c4b50fb08d",
+    "isActive": false,
+    "balance": "$1,225.46",
+    "picture": "http://placehold.it/32x32",
+    "name": "dolor anim",
+    "company": "ANIXANG",
+    "description": "Reprehenderit sunt eu elit sit occaecat veniam aute exercitation aliquip aliqua ea sint. Ipsum qui cupidatat qui aliqua ut in deserunt consequat minim consequat proident aute. Non qui culpa sit incididunt magna aute sint labore. Sit consequat ut Lorem culpa do cillum culpa ex ipsum. Enim nulla laboris dolore do deserunt culpa incididunt eu officia. Excepteur aute nisi incididunt ullamco consequat ad labore nisi elit quis cupidatat ex.\r\n",
+    "registered": "2017-02-14T06:56:06 -01:00"
+  },
+  {
+    "bikeId": "ac09c88b-9546-4630-b405-1575ef18db35",
+    "isActive": true,
+    "balance": "$3,380.20",
+    "picture": "http://placehold.it/32x32",
+    "name": "nulla ullamco",
+    "company": "AVIT",
+    "description": "Anim exercitation consectetur reprehenderit eiusmod ut Lorem eu consectetur aliquip nostrud deserunt culpa labore. Excepteur do id ea veniam exercitation officia occaecat veniam amet labore quis esse quis laborum. Pariatur consectetur duis esse ex adipisicing occaecat. Duis ea dolor incididunt aliqua dolore elit ipsum proident culpa. Veniam deserunt incididunt magna ullamco nisi est cupidatat esse. Deserunt sint fugiat officia irure ut eiusmod ut non pariatur excepteur.\r\n",
+    "registered": "2016-12-04T04:25:13 -01:00"
+  },
+  {
+    "bikeId": "291b60c8-0a1d-46b5-9a2b-961f7bab393d",
+    "isActive": false,
+    "balance": "$2,194.05",
+    "picture": "http://placehold.it/32x32",
+    "name": "exercitation qui",
+    "company": "SEALOUD",
+    "description": "Excepteur culpa aliqua eiusmod exercitation adipisicing sunt ad exercitation quis veniam non. Duis do laboris mollit est aliqua velit minim cillum deserunt in. Cupidatat mollit amet sunt labore consequat.\r\n",
+    "registered": "2014-12-06T02:52:34 -01:00"
+  },
+  {
+    "bikeId": "a6064995-3a6e-4496-9151-1aca7ddfe0eb",
+    "isActive": false,
+    "balance": "$3,746.67",
+    "picture": "http://placehold.it/32x32",
+    "name": "dolor duis",
+    "company": "ORGANICA",
+    "description": "Adipisicing velit elit amet dolore proident laboris aliquip irure reprehenderit aute sint duis laborum ut. Amet anim pariatur enim qui dolor et aliqua enim adipisicing aliqua. Mollit occaecat ut do minim pariatur magna mollit. Est quis sunt dolor aute. Nulla deserunt adipisicing elit aliqua. Occaecat qui est id voluptate fugiat est ea tempor consectetur consectetur est irure incididunt.\r\n",
+    "registered": "2014-02-28T08:20:01 -01:00"
+  },
+  {
+    "bikeId": "69d6e7fa-208b-4b47-91bb-14aa7061b950",
+    "isActive": true,
+    "balance": "$1,436.44",
+    "picture": "http://placehold.it/32x32",
+    "name": "exercitation consequat",
+    "company": "MANGELICA",
+    "description": "Consequat cupidatat do laborum veniam incididunt est minim nisi pariatur tempor cillum nostrud. Nulla Lorem non eu eiusmod ut in ut ullamco nostrud sint fugiat veniam. Sint proident cupidatat dolore exercitation id dolor. Laboris fugiat mollit ea id tempor enim cupidatat.\r\n",
+    "registered": "2017-01-16T07:07:24 -01:00"
+  },
+  {
+    "bikeId": "5f20fe18-3820-46c6-8461-a72e3dada753",
+    "isActive": true,
+    "balance": "$3,397.44",
+    "picture": "http://placehold.it/32x32",
+    "name": "amet ad",
+    "company": "KRAGGLE",
+    "description": "Eu ut eiusmod ipsum excepteur nulla sit ex labore fugiat incididunt sunt voluptate incididunt anim. Pariatur sit commodo aliqua nulla esse non et aliqua voluptate minim nulla aute aute. Velit commodo Lorem voluptate quis id voluptate in ex in magna. Deserunt voluptate labore cillum sunt laboris ad est ullamco mollit qui ipsum. Et incididunt cillum ad quis esse consequat et dolor velit et ex. Voluptate adipisicing laborum pariatur occaecat. Anim ex ea ut culpa.\r\n",
+    "registered": "2016-09-16T01:16:10 -02:00"
+  },
+  {
+    "bikeId": "07f2bd84-e106-4cda-b0e9-96415a9aad02",
+    "isActive": true,
+    "balance": "$3,771.81",
+    "picture": "http://placehold.it/32x32",
+    "name": "laboris qui",
+    "company": "NIKUDA",
+    "description": "Aliqua ea cillum laborum deserunt esse ipsum reprehenderit minim eu occaecat aliqua consequat quis. Eiusmod ullamco quis veniam cupidatat in sint. Esse mollit aute id ex est pariatur pariatur sunt. Qui dolore eu sunt officia.\r\n",
+    "registered": "2015-10-11T12:53:43 -02:00"
+  },
+  {
+    "bikeId": "300dcbb1-a10a-45bc-90c7-895bb89310e2",
+    "isActive": false,
+    "balance": "$2,559.30",
+    "picture": "http://placehold.it/32x32",
+    "name": "id sit",
+    "company": "CHILLIUM",
+    "description": "Aute duis ipsum enim est irure. Laboris id exercitation occaecat laborum consectetur minim deserunt laborum aute exercitation deserunt elit dolore. Anim aliqua pariatur exercitation eu nisi et commodo dolor qui mollit eu officia ipsum. In laboris aute laboris minim irure consequat fugiat elit. Mollit minim exercitation sit aute Lorem consectetur. Anim ex qui velit eu id aute consequat tempor eu do nulla sit nulla nisi.\r\n",
+    "registered": "2016-06-20T10:30:00 -02:00"
+  },
+  {
+    "bikeId": "7c2ab804-0fc7-448c-b174-f2b70dd62538",
+    "isActive": false,
+    "balance": "$2,469.70",
+    "picture": "http://placehold.it/32x32",
+    "name": "reprehenderit sint",
+    "company": "COMTRACT",
+    "description": "Magna id Lorem occaecat aliquip deserunt culpa nostrud adipisicing. Minim sint voluptate aute nisi officia sit officia ex pariatur. Sunt elit ullamco ipsum cillum irure labore nulla reprehenderit fugiat. Nostrud mollit minim occaecat ad culpa eu nisi ullamco amet.\r\n",
+    "registered": "2016-02-14T01:55:38 -01:00"
+  },
+  {
+    "bikeId": "2c578541-8204-4c2d-b68d-32f16cec6a75",
+    "isActive": false,
+    "balance": "$3,284.84",
+    "picture": "http://placehold.it/32x32",
+    "name": "quis magna",
+    "company": "MAZUDA",
+    "description": "Irure ad voluptate dolore deserunt ad aute cupidatat cupidatat veniam aliqua culpa incididunt. Proident reprehenderit enim do aute. Irure esse nisi tempor fugiat quis. Occaecat laboris occaecat tempor ullamco ad qui est est quis cupidatat esse aute voluptate. Dolor aliquip pariatur non esse sit laboris aliquip. Aute magna tempor aliquip enim. Magna officia quis eiusmod elit nulla.\r\n",
+    "registered": "2016-12-03T07:45:26 -01:00"
+  },
+  {
+    "bikeId": "5381f69b-1fe0-47ef-9964-591528df409f",
+    "isActive": false,
+    "balance": "$3,802.04",
+    "picture": "http://placehold.it/32x32",
+    "name": "elit esse",
+    "company": "EARTHWAX",
+    "description": "Minim nostrud consequat aliquip fugiat amet irure eiusmod proident. Duis Lorem Lorem sunt est in duis cillum tempor ipsum officia elit reprehenderit esse. Eu excepteur et tempor ipsum commodo magna et nisi. Sunt eu qui sunt laboris anim esse excepteur commodo ipsum non ipsum nostrud officia. Eu excepteur id eiusmod velit dolore labore sint culpa aliqua tempor ad in excepteur veniam.\r\n",
+    "registered": "2016-01-07T09:24:19 -01:00"
+  },
+  {
+    "bikeId": "5f8a2ca5-23a2-44e5-9cf8-7b7ccbdd086e",
+    "isActive": false,
+    "balance": "$2,958.94",
+    "picture": "http://placehold.it/32x32",
+    "name": "ullamco dolore",
+    "company": "ACCEL",
+    "description": "Incididunt ut magna fugiat eu commodo in ad enim et cupidatat fugiat irure sit magna. Id irure minim eiusmod fugiat eiusmod ipsum. Culpa aliquip dolore Lorem ea qui voluptate incididunt nulla. Irure voluptate cupidatat velit tempor laboris commodo non ullamco fugiat.\r\n",
+    "registered": "2014-03-12T12:10:09 -01:00"
+  }
+]

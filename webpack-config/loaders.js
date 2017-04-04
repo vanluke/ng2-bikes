@@ -91,7 +91,7 @@ export const sass = {
 };
 
 export const json = {
-  test: /\.json?$/,
+  test: /\.json/,
   exclude: /node_modules/,
   use: [
     'json-loader',

@@ -3,7 +3,7 @@ import { Observable } from 'rxjs';
 import 'rxjs/add/observable/dom/ajax';
 import { IBike } from './bike.d';
 // tslint:disable-next-line:import-name
-import bikes from './mock-bikes.js';
+const bikes = require('./mock-bikes.json');
 
 @Injectable()
 export class BikeService {
@@ -12,6 +12,7 @@ export class BikeService {
       //   method: 'GET'
       // })
       // .then(response => response.json() as Promise<IBike[]>);
-      return Observable.from(bikes);
+      const lb = Array.from(bikes as any);
+      return Observable.of(lb);
     }
 }

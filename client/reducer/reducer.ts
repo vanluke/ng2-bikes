@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import bikes from '../bikes/bikes-reducer';
+import { reducer as bikes } from '../bikes/bikes-reducer';
 
 export default combineReducers({
   bikes,

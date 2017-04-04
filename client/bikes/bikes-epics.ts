@@ -26,6 +26,6 @@ export const bikesFetchFailed = error => ({
 });
 
 export const bikesFetchEpic = $action => $action.ofType(FETCH_BIKES)
-  .mergeMap(() => bikeService.getBikes()
-    .map(bikes => bikesFetchSuccess(bikes)));
+  .mergeMap(() => bikeService.getBikes())
+    .map(bikes => bikesFetchSuccess(bikes));
   

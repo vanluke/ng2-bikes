@@ -1,6 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
+import { BikesComponent } from '../bikes/bikes.component';
+import { BikeComponent } from '../bikes/bike.component';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { RouterModule } from '@angular/router';
 import createStore from '../store/store';
@@ -10,27 +12,27 @@ import {
   JsonpModule,
  } from '@angular/http';
 
-const appStoreFactory = () => {
-  return createStore();
-};
-
 @NgModule({
   imports: [
     BrowserModule,
     RouterModule.forRoot([{
-      path: 'home',
-      component: AppComponent,
-    },
+      path: 'bikes',
+      component: BikesComponent,
+    }
     ]),
     HttpModule,
     JsonpModule,
     FormsModule,
   ],
-  declarations: [AppComponent],
-  bootstrap: [AppComponent],
   providers: [
-    { provide: 'store', useFactory: appStoreFactory },
+    { provide: 'store', useValue: createStore() },
   ],
+  declarations: [
+    AppComponent,
+    BikeComponent,
+    BikesComponent,
+  ],
+  bootstrap: [AppComponent],
 })
 export class AppModule {}
 

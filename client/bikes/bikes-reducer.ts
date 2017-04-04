@@ -3,13 +3,17 @@ import {
   FETCH_BIKES_SUCCESS, 
   FETCH_BIKES_FAILED,
 } from './bikes-consts';
-import Immutable from 'seamless-immutable';
+import * as Immutable from 'seamless-immutable';
 import { IAction } from '../shared/redux-action';
 
-const initState = Immutable();
+const initState = Immutable({
+  bikes: [],
+  isLoading: false,
+  error: {},
+});
 
-export default function(state = initState, action: IAction = {}) {
-  switch(action.type) {
+export function reducer(state = initState, action: IAction = {}) {
+  switch (action.type) {
     case FETCH_BIKES:
       return state.set('isLoading', true);
     case FETCH_BIKES_SUCCESS:
