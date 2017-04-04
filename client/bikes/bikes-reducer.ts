@@ -3,7 +3,7 @@ import {
   FETCH_BIKES_SUCCESS, 
   FETCH_BIKES_FAILED,
 } from './bikes-consts';
-import Immutable from 'semless-immutable';
+import Immutable from 'seamless-immutable';
 import { IAction } from '../shared/redux-action';
 
 const initState = Immutable();

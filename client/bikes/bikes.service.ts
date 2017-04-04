@@ -3,7 +3,7 @@ import { Observable } from 'rxjs';
 import 'rxjs/add/observable/dom/ajax';
 import { IBike } from './bike.d';
 // tslint:disable-next-line:import-name
-import bikes from './mock-bikes.json';
+import bikes from './mock-bikes.js';
 
 @Injectable()
 export class BikeService {

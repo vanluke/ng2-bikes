@@ -7,25 +7,25 @@ import { BikeService } from './bikes.service';
 
 const bikeService = new BikeService();
 
-export const bikeFetch = () => ({
+export const bikesFetch = () => ({
   type: FETCH_BIKES,
 });
 
-export const bikeFetchSuccess = bikes => ({
+export const bikesFetchSuccess = bikes => ({
   type: FETCH_BIKES_SUCCESS,
   payload: {
     bikes,
   },
 });
 
-export const bikeFetchFailed = error => ({
+export const bikesFetchFailed = error => ({
   type: FETCH_BIKES_SUCCESS,
   payload: {
     error,
   },
 });
 
-export const bikeFetchEpic = $action => $action.ofType(FETCH_BIKES)
+export const bikesFetchEpic = $action => $action.ofType(FETCH_BIKES)
   .mergeMap(() => bikeService.getBikes()
-    .map(bikes => bikeFetchSuccess(bikes)));
+    .map(bikes => bikesFetchSuccess(bikes)));
   

@@ -1,4 +1,4 @@
-[
+export default [
   {
     "bikeId": "66778376-fd40-4767-83fd-e1e9ebca03a2",
     "isActive": false,
