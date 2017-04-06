@@ -2,6 +2,7 @@
 logs
 *.log
 .DS_Store
+firebase.config.ts
 
 # Runtime data
 pids

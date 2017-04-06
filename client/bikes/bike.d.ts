@@ -1,7 +1,7 @@
 export interface IBike {
   bikeId: string,
   description: string;
-  img: string;
+  picture: string;
   name: string,
   balance: string;
 }

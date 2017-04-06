@@ -1,4 +1,9 @@
 export const FETCH_BIKES = 'fetch_bikes';
 export const FETCH_BIKES_SUCCESS = 'fetch_bikes_success';
 export const FETCH_BIKES_FAILED = 'fetch_bikes_failed';
-
+export const FETCH_BIKE = 'fetch_bike';
+export const FETCH_BIKE_SUCCESS = 'fetch_bike_success';
+export const FETCH_BIKE_FAILED = 'fetch_bike_failed';
+export const SELECTED_BIKE_TIMER_START = 'selected_bike_timer_start';
+export const SELECTED_BIKE_TIMER_STOP = 'selected_bike_timer_stop';
+export const SELECTED_BIKE_CHANGED = 'selected_bike_changed';

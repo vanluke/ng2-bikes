@@ -12,11 +12,6 @@
     "inlineSourceMap": true,
     "noEmitHelpers": true
   },
-  "awesomeTypescriptLoaderOptions": {
-    "useBabel": true,
-    "useCache": false,
-    "emitRequireType": false
-  },
   "exclude": [
     "node_modules",
     "public"

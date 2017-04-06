@@ -8,7 +8,7 @@ const reduxLogger = createLogger && createLogger();
 const epicMiddleware = createEpicMiddleware(epic);
 
 const storeWithMiddleware =
-  applyMiddleware(epicMiddleware)(createStore);
+  applyMiddleware(epicMiddleware, reduxLogger)(createStore);
 
 export default function configureStore() {
   return storeWithMiddleware(reducer);
